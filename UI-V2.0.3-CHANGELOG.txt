@@ -1,0 +1,1 @@
+RoutePilot 2.0.3: nonblocking privileged Apply flow; show success only after confirmed exit code; handle cancellation and errors; keep local saved rules unchanged when authentication fails. Routing engine unchanged.

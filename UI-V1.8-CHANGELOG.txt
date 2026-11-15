@@ -1,0 +1,1 @@
+RoutePilot 1.8: dark/light persisted in ~/.config/routepilot/ui.json, search/filter, daemon/nft-based live indications, and JSON backup/restore. No changes to route reconciliation or NAT. Live state does not prove connectivity. Import stages in UI until Apply.

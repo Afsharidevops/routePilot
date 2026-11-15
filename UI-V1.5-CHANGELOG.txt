@@ -1,0 +1,6 @@
+RoutePilot v1.5 UI refresh
+
+UI-only changes: overview counters, service indicator, refreshed colors, large readable table, multi-select hint, double-click edit, log viewer. Routing, nftables, OpenVPN and saved rules are unchanged.
+
+Install over v1.4: sudo bash install.sh
+Restart the GUI after upgrading.

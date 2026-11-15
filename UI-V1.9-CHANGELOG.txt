@@ -1,0 +1,1 @@
+v1.9 UI polish: themed header/cards/Add/Edit dialog, cleaner search/filter, theme-aware buttons, tooltip help, separate wildcard IP count column. Waiting DNS NEVER changes enabled/disabled row color. Routing engine unchanged.

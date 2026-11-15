@@ -1,0 +1,6 @@
+RoutePilot v1.7 — Modern notifications
+- Replace blocking Saved modal with in-app auto-dismiss success toast.
+- Error notification includes details, stays longer and can be dismissed.
+- Table overlays instead of resizing, keeping footer accessible.
+- No routing, DNS, policy route or NAT engine changes.
+- Existing rules retained on upgrade.

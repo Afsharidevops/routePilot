@@ -1,0 +1,6 @@
+RoutePilot v2.0.2 — Add/Edit rule dialog layout fix
+
+- Persistent footer outside scrollable rule form
+- Scrollable content for smaller displays and scaling
+- Save/Add and Cancel always in reserved bottom bar
+- No changes to routing, DNS observer, NAT, or uninstall code

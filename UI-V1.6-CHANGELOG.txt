@@ -1,0 +1,6 @@
+RoutePilot v1.6 responsive layout
+- Footer packed before the expanding table, always visible.
+- Two-row action button grid with equal-width buttons.
+- Initial window height clamped to screen dimensions.
+- No changes to daemon, DNS observer, firewall, routing or NAT logic.
+- Existing rules retained on upgrade.
